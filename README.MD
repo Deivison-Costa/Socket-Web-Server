@@ -22,7 +22,7 @@
 - Compile and run the SocketWebServer.java class.
 - The server will start running and listen for incoming client connections on port 8080.
 
-## Connecting and Requesting Files (FileClient.java)
+## Connecting and Requesting Files (ClientTest/FileClient.java)
 ### Modify the SERVER_IP, SERVER_PORT, and FILE_NAME constants as needed:
 - **SERVER_IP**: Set this to the IP address of the machine running the Socket Web Server. If the server is running on the same machine, you can use "127.0.0.1".
 - **SERVER_PORT**: Set this to the same port number that the Socket Web Server is listening on (default is 8080).
