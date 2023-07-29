@@ -29,6 +29,6 @@
 - **FILE_NAME**: Replace this with the name of the file you want to request from the shared folder.
 ## Compile and run the FileClient.java class: 
     javac FileClient.java
-    java FileClient)
+    java FileClient
 
 - The client will connect to the server and request the specified file from the shared folder. If the file is found, it will be saved in the current directory with the same name. If the file does not exist, the server will respond with a "File not found" message.
