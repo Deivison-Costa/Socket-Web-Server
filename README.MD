@@ -2,6 +2,9 @@
 - This is a simple Java application that implements a Socket Web Server for file sharing. The server allows multiple clients to connect and request files from a shared folder. 
 - The application utilizes concepts of Threads, Sockets, and Serialization.
 
+![Figure_1](https://github.com/Deivison-Costa/Tasks-Manager/assets/112001225/805c141d-4ba0-4f2f-af88-f14c82858cee)
+![Figure_2](https://github.com/Deivison-Costa/Tasks-Manager/assets/112001225/f3c24d77-bac4-4546-af74-4f8ac574c42f)
+
 # Prerequisites
 ## To run this application, you need the following:
 - Java Development Kit (JDK) installed on your system.
